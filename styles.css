@@ -1,0 +1,10 @@
+.pileBurning {
+    width: 200px;
+} 
+.mainTitle {
+    border: 2px solid black;
+    outline: #155d8d solid 10px;
+    margin: auto;  
+    padding: 20px;
+    text-align: center;
+  }
